@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linguistics on Danielle Turton</title>
+    <link>/tags/linguistics/</link>
+    <description>Recent content in linguistics on Danielle Turton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/linguistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Homepage</title>
+      <link>/post/homepage/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/homepage/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;Add some elements here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
