@@ -18,15 +18,17 @@ interests:
 - Accents of English
 - Sound change
 - Ultrasound tongue imaging
+- Sociolinguistics
+- Phonology
 name: Danielle Turton
 organizations:
-- name: #Lancaster University
+- name: Lancaster University
   url: ""
-role: #Lecturer in Sociolinguistics
+role: Lecturer in Sociolinguistics
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:d.m.turton@lancaster.ac.uk'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=jqgniHIAAAAJ&hl=en
@@ -42,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Lecturer in Sociolinguistics at Lancaster University. My research focusses on accents of English, and more specifically why accents vary and change over time. My areas of expertise include Northern Englishes (particularly the Manchester accent and Blackburn accent), theories of sound change, ultrasound tongue imaging, laboratory phonology and the intersection between variable processes and phonetics/phonology interfaces.
+I am a Lecturer in Sociolinguistics in the Department of Linguistics and English Language at Lancaster University. My research focusses on accents and dialects of English, and more specifically why accents vary and change over time. My areas of expertise include Northern Englishes (particularly the accents of Manchester and Blackburn), theories of sound change, ultrasound tongue imaging, laboratory phonology and the intersection between variable processes and phonetics/phonology interfaces.

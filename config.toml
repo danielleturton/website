@@ -28,6 +28,9 @@ disqusShortname = ""
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
+
+avatar = "DanielleTurton.jpg"
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 

@@ -15,7 +15,7 @@ font = "default"
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "DanielleTurton.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -54,7 +54,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "danielleturtonbb@gmail.com"
+email = "d.m.turton@lancaster.ac.uk"
 phone = ""
 address = ""
 
@@ -112,6 +112,10 @@ plugins_js  = []
 
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
+avatar = "DanielleTurton.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+#address = "Department of Linguistics and English Language, Lancaster University"
+#office_hours = "Monday 10:00 to 13:00 or email for appointment"
+#phone = "07805 871708"
 
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = false
