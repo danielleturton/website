@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a quantitative linguist working in sociolinguistics and phonology.  My research interests and areas of expertise include language variation and change, theories of sound change, accents of English (particularly the Manchester accent and Blackburn accent), ultrasound tongue imaging, laboratory phonology and the intersection between variable processes and phonological interfaces.
+I am a Lecturer in Sociolinguistics at Lancaster University. My research focusses on accents of English, and more specifically why accents vary and change over time. My areas of expertise include Northern Englishes (particularly the Manchester accent and Blackburn accent), theories of sound change, ultrasound tongue imaging, laboratory phonology and the intersection between variable processes and phonetics/phonology interfaces.
