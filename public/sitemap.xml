@@ -113,12 +113,6 @@
   </url>
   
   <url>
-    <loc>/tags/me/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/presentations/schleef-2014-isle/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -132,6 +126,12 @@
   <url>
     <loc>/publication/schleef-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/me/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -302,6 +302,11 @@
   </url>
   
   <url>
+    <loc>/talk/mac-kenzie-2014/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/laurel-mackenzie/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -330,6 +335,12 @@
   <url>
     <loc>/publication/turton-2014-b/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
