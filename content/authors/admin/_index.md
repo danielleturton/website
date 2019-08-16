@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include sound change and accents of English.
+bio: ""
 education:
   courses:
   - course: PhD in Linguistics
