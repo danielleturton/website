@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCA on Danielle Turton</title>
+    <link>/tags/pca/</link>
+    <description>Recent content in PCA on Danielle Turton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Danielle Turton, {2019}</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/pca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Determining categoricity in English /l/-darkening: a principal component analysis of ultrasound spline data</title>
+      <link>/talk/turton-2015-icphs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/turton-2015-icphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

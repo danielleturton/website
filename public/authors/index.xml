@@ -7,15 +7,42 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Danielle Turton, {2019}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Danielle Turton</title>
+      <link>/authors/danielle-turton/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/danielle-turton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Schleef</title>
+      <link>/authors/erik-schleef/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/erik-schleef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maciej Baranowski</title>
+      <link>/authors/maciej-baranowski/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/maciej-baranowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Lecturer in Sociolinguistics in the Department of Linguistics and English Language at Lancaster University. My research focusses on accents and dialects of English, and more specifically why accents vary and change over time. My areas of expertise include Northern Englishes (particularly the accents of Manchester and Blackburn), theories of sound change, ultrasound tongue imaging, laboratory phonology and the intersection between variable processes and phonetics/phonology interfaces.&lt;/p&gt;
@@ -23,20 +50,38 @@
     </item>
     
     <item>
-      <title>Danielle Turton</title>
-      <link>/authors/danielle-turton/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>George Bailey</title>
+      <link>/authors/george-bailey/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/danielle-turton/</guid>
+      <guid>/authors/george-bailey/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Maciej Baranowski</title>
-      <link>/authors/maciej-baranowski/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Ricardo Bermúdez-Otero</title>
+      <link>/authors/ricardo-bermudez-otero/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/maciej-baranowski/</guid>
+      <guid>/authors/ricardo-bermudez-otero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurel MacKenzie</title>
+      <link>/authors/laurel-mackenzie/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/laurel-mackenzie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Ramsammy</title>
+      <link>/authors/michael-ramsammy/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/michael-ramsammy/</guid>
       <description></description>
     </item>
     

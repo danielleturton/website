@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricardo Bermúdez-Otero on Danielle Turton</title>
+    <link>/authors/ricardo-bermudez-otero/</link>
+    <description>Recent content in Ricardo Bermúdez-Otero on Danielle Turton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Danielle Turton, {2019}</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/ricardo-bermudez-otero/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A stationary frequency effect in Manchester English</title>
+      <link>/talk/turton-2016-mfm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/turton-2016-mfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahead but not faster: The effect of high token frequency on sound change</title>
+      <link>/talk/baranowski-2016-nwav/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/baranowski-2016-nwav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A constant rate effect in Manchester /t/-glottalling: high-frequency words are ahead of, but change at the same rate as, low-frequency words</title>
+      <link>/talk/rbo-2015-eshp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/rbo-2015-eshp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

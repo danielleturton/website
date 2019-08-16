@@ -7,17 +7,53 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Danielle Turton, {2019}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Me</title>
+      <link>/tags/me/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>/tags/talk/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Source Themes</title>
       <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA</title>
+      <link>/tags/pca/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrasound</title>
+      <link>/tags/ultrasound/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ultrasound/</guid>
       <description></description>
     </item>
     
