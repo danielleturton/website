@@ -7,25 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Danielle Turton, {2019}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Assessing the accuracy of existing forced alignment software on varieties of British English</title>
+      <link>/publication/mac-kenzie-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>/publication/mac-kenzie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not quite the same: The social and phonetic conditioning of the textscFoot-Strut vowels in Manchester</title>
+      <link>/publication/turton-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/turton-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TD-deletion in British English: New evidence for the long lost morphological effect?</title>
+      <link>/publication/baranowski-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/baranowski-2019/</guid>
+      <description></description>
     </item>
     
   </channel>

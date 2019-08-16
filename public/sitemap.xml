@@ -29,26 +29,66 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/danielle-turton/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maciej-baranowski/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/baranowski2018/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/0/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/presentations/turton-2018-penn/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/talk/turton-2018-penn/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/danielle-turton/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -58,24 +98,18 @@
   </url>
   
   <url>
-    <loc>/talk/turton-2018-sheffield/</loc>
+    <loc>/presentations/turton-2018-sheffield/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2018-edi/</loc>
+    <loc>/presentations/turton-2018-edi/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/baranowski-2018-nwav/</loc>
+    <loc>/presentations/baranowski-2018-nwav/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/maciej-baranowski/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -85,30 +119,23 @@
   </url>
   
   <url>
-    <loc>/talk/schleef-2014-isle/</loc>
+    <loc>/presentations/schleef-2014-isle/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/presentations/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/publication/schleef-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/turton-2018-qmul/</loc>
+    <loc>/presentations/turton-2018-qmul/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -124,54 +151,37 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/turton2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2017-uklvc/</loc>
+    <loc>/presentations/turton-2017-uklvc/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/presentations/baranowski-2017-nwav/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/talk/baranowski-2017-nwav/</loc>
+    <loc>/presentations/baranowski-2017-eshp/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/baranowski-2017-eshp/</loc>
+    <loc>/presentations/turton-2017-eshp/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2017-eshp/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/turton-2016-mfm/</loc>
+    <loc>/presentations/turton-2016-mfm/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/baranowski-2016-nwav/</loc>
+    <loc>/presentations/baranowski-2016-nwav/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,32 +198,53 @@
   </url>
   
   <url>
-    <loc>/talk/turton-2016-lagb/</loc>
+    <loc>/publication/turton-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/baranowski-2016-new/</loc>
+    <loc>/presentations/turton-2016-lagb/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2015-mfil/</loc>
+    <loc>/presentations/baranowski-2016-new/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/presentations/turton-2015-mfil/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/rbo-2015-eshp/</loc>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/presentations/rbo-2015-eshp/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2015-uklvc/</loc>
+    <loc>/presentations/turton-2015-uklvc/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2015-icphs/</loc>
+    <loc>/presentations/turton-2015-icphs/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/turton-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/baranowski-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -224,12 +255,12 @@
   </url>
   
   <url>
-    <loc>/talk/baranowski-2015-nwav/</loc>
+    <loc>/presentations/baranowski-2015-nwav/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2015-lan/</loc>
+    <loc>/presentations/turton-2015-lan/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -240,27 +271,33 @@
   </url>
   
   <url>
-    <loc>/talk/turton-2014-methods/</loc>
+    <loc>/presentations/turton-2014-methods/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2015-fwav/</loc>
+    <loc>/presentations/turton-2015-fwav/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2014-new/</loc>
+    <loc>/publication_types/7/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/presentations/turton-2014-new/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2014-ocp/</loc>
+    <loc>/presentations/turton-2014-ocp/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/mac-kenzie-2014/</loc>
+    <loc>/presentations/mac-kenzie-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -271,82 +308,92 @@
   </url>
   
   <url>
-    <loc>/talk/schleef-2014-dipvac/</loc>
+    <loc>/presentations/schleef-2014-dipvac/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/mac-kenzie-2014-c/</loc>
+    <loc>/presentations/mac-kenzie-2014-c/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2014-york/</loc>
+    <loc>/presentations/turton-2014-york/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/schleef-2014-ss/</loc>
+    <loc>/presentations/schleef-2014-ss/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2014-baap/</loc>
+    <loc>/publication/turton-2014-b/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/baranowski-2014-methods/</loc>
+    <loc>/presentations/turton-2014-baap/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2014-nwav/</loc>
+    <loc>/publication/turton-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2013-mfm/</loc>
+    <loc>/presentations/baranowski-2014-methods/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/presentations/turton-2014-nwav/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/presentations/turton-2013-mfm/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2013-uklvc/</loc>
+    <loc>/presentations/turton-2013-uklvc/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2013-ncl/</loc>
+    <loc>/presentations/turton-2013-ncl/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2013-penn/</loc>
+    <loc>/presentations/turton-2013-penn/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/mac-kenzie-2013-mcr/</loc>
+    <loc>/presentations/mac-kenzie-2013-mcr/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/mac-kenzie-2013-nwav/</loc>
+    <loc>/presentations/mac-kenzie-2013-nwav/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2012-mfm/</loc>
+    <loc>/presentations/turton-2012-mfm/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/ramsammy-2012-mcr/</loc>
+    <loc>/presentations/ramsammy-2012-mcr/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/ramsammy-2012-mfil/</loc>
+    <loc>/presentations/ramsammy-2012-mfil/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -357,23 +404,32 @@
   </url>
   
   <url>
-    <loc>/talk/turton-2012-philsoc/</loc>
+    <loc>/presentations/turton-2012-philsoc/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2012-edi/</loc>
+    <loc>/presentations/turton-2012-edi/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2011-penn/</loc>
+    <loc>/presentations/turton-2011-penn/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/turton-2011-mfm/</loc>
+    <loc>/presentations/turton-2011-mfm/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/mac-kenzie-2019/</loc>
   </url>
   
   <url>
@@ -386,7 +442,11 @@
   </url>
   
   <url>
-    <loc>/publication/pwpl2018/</loc>
+    <loc>/publication/turton-2019/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/baranowski-2019/</loc>
   </url>
   
 </urlset>

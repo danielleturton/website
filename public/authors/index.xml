@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Danielle Turton, {2019}</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Danielle Turton</title>
       <link>/authors/danielle-turton/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/danielle-turton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maciej Baranowski</title>
+      <link>/authors/maciej-baranowski/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/maciej-baranowski/</guid>
       <description></description>
     </item>
     
@@ -27,15 +36,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/erik-schleef/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maciej Baranowski</title>
-      <link>/authors/maciej-baranowski/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/maciej-baranowski/</guid>
       <description></description>
     </item>
     
