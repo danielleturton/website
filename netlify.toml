@@ -10,8 +10,8 @@
 [context.production.environment]
   HUGO_ENV = "production"
 
-[context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --themesDir ../../"
+  [context.deploy-preview.environment]
+    HUGO_VERSION = "0.19"
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL --themesDir ../../"
