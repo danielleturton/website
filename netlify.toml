@@ -11,7 +11,7 @@
   HUGO_ENV = "production"
 
   [context.deploy-preview.environment]
-    HUGO_VERSION = "0.19"
+    HUGO_VERSION = "0.20"
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL --themesDir ../../"
