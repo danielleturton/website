@@ -1,5 +1,5 @@
 ---
-#abstract: /l/-darkening blah blah
+#abstract: /l/-darkening 
 authors:
 - admin
 #date: "2015-09-01T00:00:00Z"
@@ -22,7 +22,7 @@ tags:
 title: Categorical or gradient? An ultrasound investigation of /l/-darkening and vocalization in varieties of English
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.journal-labphon.org/articles/10.5334/labphon.35/
+url_pdf: https://www.journal-labphon.org/articles/10.5334/labphon.35/galley/81/download/
 url_poster: ""
 url_project: ""
 url_slides: ""
