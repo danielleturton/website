@@ -6,7 +6,7 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "Journal of Linguistics"
-url_pdf: https://eprints.lancs.ac.uk/id/eprint/139084/1/Turton_Baranowski_FOOT_STRUT_vowels_in_Manchester.pdf
-doi: ""
-summary: Journal of Linguistics, forthcoming
+url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/779B282947BFD2CA3A845A6339A8865F/S0022226720000122a.pdf/not_quite_the_same_the_social_stratification_and_phonetic_conditioning_of_the_footstrut_vowels_in_manchester.pdf
+doi: "10.1017/S0022226720000122"
+summary: Journal of Linguistics, 2020
 ---

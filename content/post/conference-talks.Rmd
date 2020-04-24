@@ -1,0 +1,24 @@
+---
+title: Conference talks
+#author: '
+date: "2020-04-15T21:48:51-07:00"
+slug: conference-talks
+subtitle: Selected conference presentations
+authors: []
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: /Users/danielle/Dropbox/bibliography.bib
+biblio-style: apalike
+---
+
+hellow there
+
+
+nocite: |
+@Turton2019lagb, @Bailey2019uklvc
+
+# References
