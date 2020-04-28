@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -23,39 +23,28 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-15T21:48:51-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2020-04-15T21:48:51-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/danielle-turton/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/maciej-baranowski/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -66,7 +55,6 @@
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -82,12 +70,21 @@
   <url>
     <loc>/authors/laurel-mackenzie/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/baranowski-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -98,13 +95,11 @@
   <url>
     <loc>/tags/source-themes/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -115,7 +110,6 @@
   <url>
     <loc>/authors/erik-schleef/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -141,13 +135,11 @@
   <url>
     <loc>/publication_types/0/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/6/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -163,19 +155,16 @@
   <url>
     <loc>/tags/pca/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/ultrasound/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/7/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -190,11 +179,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
   <url>
