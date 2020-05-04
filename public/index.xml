@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Wed, 15 Apr 2020 21:48:51 -0700</pubDate>
-      
-      <guid>/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>/publication/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -60,6 +51,7 @@
 
 &lt;p&gt;you are hearing me talk&lt;/p&gt;
 &lt;p&gt;here is a list of all my tasks&lt;/p&gt;
+&lt;p&gt;testing testing&lt;/p&gt;
 </description>
     </item>
     
