@@ -6,7 +6,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "Language Variation and Change"
-url_pdf: https://eprints.lancs.ac.uk/id/eprint/140520/1/Baranowski_Turton_2020_TD_deletion_in_British_English.pdf
-doi: ""
-summary: Language Variation and Change, forthcoming
+url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4157F17EED627BA7938B11FA9D7BB816/S0954394520000034a.pdf/tddeletion_in_british_english_new_evidence_for_the_longlost_morphological_effect.pdf
+doi: "https://doi.org/10.1017/S0954394520000034"
+summary: Language Variation and Change, 2020
 ---
