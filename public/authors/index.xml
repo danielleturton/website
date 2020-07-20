@@ -7,17 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Danielle Turton, 2020</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Adrian Leemann</title>
+      <link>/authors/adrian-leemann/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/adrian-leemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Danielle Turton</title>
       <link>/authors/danielle-turton/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/danielle-turton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sam Kirkham</title>
+      <link>/authors/sam-kirkham/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sam-kirkham/</guid>
       <description></description>
     </item>
     
