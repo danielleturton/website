@@ -7,6 +7,6 @@ publication_types: ["6"]
 abstract: ""
 featured: true
 publication: "*Researching Northern Englishes*"
-url_pdf: https://danielleturton.rbind.io/pdfs/Baranowski_Turton_2015_Manchester_authors_manuscript
+url_pdf: https://www.dropbox.com/s/lhdkxs01cp9fxgj/BaranowskiTurton-Manchester2015_preprint.pdf?dl=0
 summary: In *Researching Northern Englishes,* 2015
 ---
