@@ -24,7 +24,7 @@ name: Danielle Turton
 organizations:
 - name: Lancaster University
   url: ""
-role: Lecturer in Sociolinguistics
+role: Senior Lecturer in Sociolinguistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Lecturer in Sociolinguistics in the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at [Lancaster University](https://www.lancaster.ac.uk). My research focusses on accents and dialects of English, and more specifically why accents vary and change over time. My areas of expertise include Northern Englishes (particularly the accents of Manchester and Blackburn), theories of sound change, ultrasound tongue imaging, laboratory phonology and the intersection between variable processes and phonetics/phonology interfaces.  I am a member of the Lancaster University [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/).
+I am a Senior Lecturer in Sociolinguistics in the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at [Lancaster University](https://www.lancaster.ac.uk). My research focusses on accents and dialects of English, and more specifically why accents vary and change over time. My areas of expertise include Northern Englishes (particularly the accents of Manchester and Blackburn), theories of sound change, ultrasound tongue imaging, laboratory phonology and the intersection between variable processes and phonetics/phonology interfaces.  I am a member of the Lancaster University [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) and the PI on a three-year Leverhulme funded project investigating Lancashire rhoticity (with [Robert Lennon](https://robertlennon50.github.io/)).
